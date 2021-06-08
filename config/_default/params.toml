@@ -1,0 +1,36 @@
+author = "Terry TAN"
+description = " "
+avatar = "images/profile-memoji.png"
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[social]]
+icon = "linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/tanchingwenterry"
+
+[[social]]
+icon = "github"
+title = "GitHub"
+url = "https://github.com/tanterry"
+
+[[social]]
+icon = "mail"
+title = "e-mail"
+url = "mailto:tanterrydev@gmail.com"
+
+[style]
+# darkestColor = "#1e6159"
+darkestColor = "#16537e"
+darkColor = "#212121"
+lightColor = "#d6d6d6"
+lightestColor = "#d3d3d3"
+primaryColor = "#ffffff"

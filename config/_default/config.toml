@@ -1,0 +1,8 @@
+baseURL = "https://tanterry.github.io"
+languageCode = "zh-tw"
+DefaultContentLanguage = "zh-tw"
+title = "Terry Tan"
+theme = "m10c"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
