@@ -8,7 +8,7 @@ date: 2021-06-17T23:37:35+02:00
 
 
 ```swift
-struct {
+struct Me {
     let whoAmI = "Terry Tan"
     let job = "iOS developer"
     let email = "tanterrydev@gmail.com"
