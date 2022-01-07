@@ -4,4 +4,4 @@
 法國同時也漸漸的開始改變工作型態，呼籲公司讓職員能夠在家工作，到目前為止許多公司開始允許員工兩天遠端上班。這個措施對於軟體開發者來說真的是一大福音，畢竟只要有一台電腦跟網路，只要環境舒適在哪工作都可以。唯一最大的缺點就是遠端工作時無法即時聯絡到人，有時候甚至懷疑很多人根本沒在工作。法文的遠端工作叫télétravail，我們則戲稱這些人在télévacance(遠端放假)。
 個人的變化 今年要說最大的變化莫過於終於決定換工作吧！每個人都有他的週期，我的週期大概就是每兩年會審視一下自己究竟進步了多少，並且評估是否對現在的環境感到安逸。雖說安逸的生活並沒有什麼不好，但環境的影響也是需要重視的部分。從前幾年開始就不停的思考著是否要換一個新環境，甚至一個國家，來挑戰一下自己。原因是以目前我所待過的公司經驗來看，小組人員大致上能力還不錯，但對於技術的探究心仍然算是比較缺乏(應該說他們更想將精力用在生活其他事物上，很法國人)，讓我經常覺得因缺乏挑戰導致進步幅度不夠大。</description></item><item><title>About</title><link>https://tanterry.github.io/about/</link><pubDate>Thu, 17 Jun 2021 23:37:35 +0200</pubDate><guid>https://tanterry.github.io/about/</guid><description>你好！我是 Terry TAN，現正居住在巴黎打拼的台灣iOS工程師。
 寫這網站的主要目的是為了在工作之餘記錄一些開發上的筆記與心得。
-struct { let whoAmI = &amp;#34;Terry Tan&amp;#34; let job = &amp;#34;iOS developer&amp;#34; let email = &amp;#34;tanterrydev@gmail.</description></item></channel></rss>
+struct Me { let whoAmI = &amp;#34;Terry Tan&amp;#34; let job = &amp;#34;iOS developer&amp;#34; let email = &amp;#34;tanterrydev@gmail.</description></item></channel></rss>
